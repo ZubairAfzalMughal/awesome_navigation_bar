@@ -1,6 +1,7 @@
 # awesomenavigationbar
 
-A new Flutter application.
+![Screenshot_1593245576](https://user-images.githubusercontent.com/57314430/85917962-26841c80-b878-11ea-9661-4ed297ea89ec.png)
+
 
 ## Getting Started
 
